@@ -13,7 +13,7 @@ import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
 export const categories = [
-  { name: 'Babymetal', icon: <HomeIcon /> },
+  { name: 'babymetal', icon: <HomeIcon /> },
   { name: 'Coding', icon: <CodeIcon /> },
   { name: 'ReactJS', icon: <CodeIcon /> },
   { name: 'NextJS', icon: <CodeIcon /> },
