@@ -69,7 +69,11 @@ const VideoDetail = () => {
                 py={1}
                 px={2}
               >
-                <Link href={`/channel/${channelId}`}>
+       
+ <Link href={`/channel/${channelId}`}>
+
+
+         <Link href={`/channel/${channelId}`}>
                   <a>
                     <Typography variant="h6" color="#fff">
                       {channelTitle}
