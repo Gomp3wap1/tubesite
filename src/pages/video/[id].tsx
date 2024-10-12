@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+aaimport { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Head from 'next/head';
 import { useRouter } from 'next/router';
@@ -54,7 +54,7 @@ const VideoDetail = () => {
           <Box flex={1}>
             <Box sx={{ width: '100%', position: 'sticky', top: '86px' }}>
               <ReactPlayer
-                url={`https://www.youtube.com/watch?v=${id}`}
+                url={`https://ssyoutube.com/watch?v=${id}`}
                 className="react-player"
                 playing={true}
                 controls
